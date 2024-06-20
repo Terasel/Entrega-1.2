@@ -1,3 +1,4 @@
+// Nota: este es un código de prueba a modo ilustrativo. Es de esperar que haya algunos errores
 interface Builder {
     ponerBase(): void;
     ponerTomate(): void;
